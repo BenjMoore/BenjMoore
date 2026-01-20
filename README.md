@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ben
 
-### An experienced software developer
+### Software developer with 5 years experience
 
 - 🔭 I'm currently working on **OasAuth - Custom authentication service using .NET
 & SentraVoice - Bleeding edge AI SaaS**

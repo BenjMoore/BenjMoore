@@ -5,7 +5,7 @@
 - 🔭 I'm currently working on **OasAuth - Custom authentication service using .NET
 & SentraVoice - Bleeding edge AI SaaS**
 
-- 🌱 I'm currently learning **ML & LLM Development
+- 🌱 I'm currently learning **ML & LLM Development &
 Big Data Engineering (Databricks, PySpark, Snowflake)**
 
 - 👯 I'm looking to collaborate on **Open Source AI, Automation & Robotics Projects**

@@ -3,7 +3,7 @@
 ### An experienced software developer
 
 - 🔭 I'm currently working on **OasAuth - Custom authentication service using .NET
-SentraVoice - Bleeding edge AI SaaS**
+& SentraVoice - Bleeding edge AI SaaS**
 
 - 🌱 I'm currently learning **ML & LLM Development
 Big Data Engineering (Databricks, PySpark, Snowflake)**

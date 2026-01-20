@@ -2,10 +2,6 @@
 
 ### An experienced software developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BenjMoore&label=Profile views&color=0e75b6&style=flat" alt="BenjMoore" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BenjMoore" alt="BenjMoore" /></a> </p>
-
 - 🔭 I'm currently working on **OasAuth - Custom authentication service using .NET
 SentraVoice - Bleeding edge AI SaaS**
 
